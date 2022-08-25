@@ -1,7 +1,7 @@
 # Multiple SMTP for Mautic
 
 A test for multiple SMTP server support for Mautic.
-Forked from https://github.com/mtcextendee/mautic-random-smtp-bundle/releases
+Forked from https://github.com/mtcextendee/mautic-random-smtp-bundle
 
 
 ### Installation from command line
